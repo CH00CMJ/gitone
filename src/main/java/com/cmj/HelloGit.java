@@ -6,6 +6,7 @@ public class HelloGit {
         System.out.println("Hello 01 master");
         System.out.println("Hello 02 master");
         System.out.println("Hello 03 master");
+        System.out.println("I like you.");
     }
 
 }
